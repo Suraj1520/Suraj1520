@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<P align="center">📫 How to reach me **sraj15082003@gmail.com**</p>
+<P align="center">📫 How to reach me <a href="sraj15082003@gmail.com">sraj15082003@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
