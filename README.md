@@ -1,6 +1,6 @@
 ![MasterHead](https://www.kookyinfomedia.com/assets/img/images/Gif.gif)
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 <P align="center">📫 How to reach me <a href="sraj15082003@gmail.com">sraj15082003@gmail.com</a></p>
